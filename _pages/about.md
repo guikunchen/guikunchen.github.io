@@ -17,7 +17,6 @@ About Me
 Education
 =======
 * D.Eng in Artificial Intelligence, Zhejiang University, China, 2021–Present. Supervised by Prof. Wenguan Wang.
-* B.S. in Computer Science, Jimei University, China, 2021.
 
 
 <br />
