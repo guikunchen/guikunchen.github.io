@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 =======
-  I am currently a D.Eng student at Zhejiang University. My research interests include artificial intelligence, with a focus on scene understanding, 3D reconstruction, and large language models.
+  I am currently a D.Eng student at Zhejiang University. My research interests include artificial intelligence, with a focus on scene understanding, 3D reconstruction, and (multimodal) large language models.
 
 
 <br />
