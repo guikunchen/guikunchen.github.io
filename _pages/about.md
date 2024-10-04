@@ -16,7 +16,8 @@ About Me
 
 Education
 =======
-* D.Eng in Artificial Intelligence, Zhejiang University, China, 2021–Present. Supervised by Prof. Wenguan Wang.
+* D.Eng in Artificial Intelligence, Zhejiang University, China, 2023–Present. Supervised by Prof. Wenguan Wang.
+* Master in Artificial Intelligence, Zhejiang University, China, 2021–2022. Supervised by Prof. Jun Xiao.
 
 
 <br />
