@@ -9,15 +9,15 @@ redirect_from:
 ---
 About Me
 =======
-  I am currently a D.Eng student at Zhejiang University. My research interests include artificial intelligence, with a focus on scene understanding, generative AI, (multimodal) large language models, and their applications.
+  I am currently a D.Eng student at Zhejiang University.
 
 
 <br />
 
 Education
 =======
-* D.Eng in Artificial Intelligence, Zhejiang University, China, 2023–Present. Supervised by Prof. <a href="https://sites.google.com/view/wenguanwang/home" target="_blank">Wenguan Wang</a>.
-* MS in Artificial Intelligence, Zhejiang University, China, 2021–2022. Supervised by Prof. <a href="https://scholar.google.com/citations?user=fqOwFhQAAAAJ" target="_blank">Jun Xiao</a>.
+* D.Eng, Zhejiang University, China, 2023–Present.
+* MS, Zhejiang University, China, 2021–2022.
 
 
 <br />
