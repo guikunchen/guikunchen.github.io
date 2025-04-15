@@ -17,7 +17,6 @@ About Me
 Education
 =======
 * D.Eng, Zhejiang University, China, 2023–Present.
-* MS, Zhejiang University, China, 2021–2022.
 
 
 <br />
