@@ -19,7 +19,7 @@ redirect_from:
 
 Here is **Guikun Chen (陈桂锟)**.<br>
 
-I am currently a visiting PhD student at Harvard University, advised by [Prof. Lauren O’Donnell](https://odonnell-lab.bwh.harvard.edu/laurenjodonnell/home.html), and a PhD candidate at Zhejiang University advised by [Prof. Wenguan Wang](https://sites.google.com/view/wenguanwang). I received my research training during my Master’s studies under the supervision of [Prof. Jun Xiao](https://person.zju.edu.cn/junx).<br>
+I am currently a visiting PhD student at Harvard University (advised by [Prof. Lauren O'Donnell](https://odonnell-lab.bwh.harvard.edu/laurenjodonnell/home.html)) and a PhD candidate at Zhejiang University (advised by [Prof. Wenguan Wang](https://sites.google.com/view/wenguanwang)). I completed my Master's studies under the supervision of [Prof. Jun Xiao](https://person.zju.edu.cn/junx).<br>
 
 My research interests lie in multi-modal learning and AI4Science.
 
